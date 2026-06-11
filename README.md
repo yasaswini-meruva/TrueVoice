@@ -39,13 +39,6 @@ Create an environment variable:
 
 GROQ_API_KEY=your_api_key_here
 
-## 📸 Screenshots
+## 🌐 Live Demo
 
-Add screenshots of:
-
-- Home Page
-- AI Detection
-- Model Fingerprinting
-- Text Humanization
-- Voice Match
-- History
+👉 [https://truevoice-iwmf.onrender.com](https://truevoice-iwmf.onrender.com)
